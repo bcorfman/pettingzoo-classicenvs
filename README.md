@@ -2,7 +2,7 @@
 
 PettingZoo ConnectFour example configured with Rye as dependency manager. Tested with MacOS Sonoma and Ubuntu on WSL2.
 
-<img src="res/c4.png">
+<img src="res/c4.png" style="width: 500px">
 
 ## Prerequisites
 * At a type `make devinstall` to set up Rye with the appropriate Python version, plus the project-level dependencies in development mode, or just `make install` to set up the code as runnable only.
