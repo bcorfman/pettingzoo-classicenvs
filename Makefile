@@ -8,7 +8,7 @@ setup:
 	curl -sSf https://rye-up.com/get | RYE_NO_AUTO_INSTALL=1 RYE_INSTALL_OPTION="--yes" bash
 
 install:
-	$(HOME)/.rye/shims/rye sync --no-lock --no-dev
+	$(HOME)/.rye/shims/rye sync --no-dev
 
 devinstall:
 	$(HOME)/.rye/shims/rye pin $(PYTHON_VERSION)
