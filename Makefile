@@ -15,9 +15,6 @@ devinstall:
 	$(HOME)/.rye/shims/rye add ipython pytest pytest-cov --dev
 	$(HOME)/.rye/shims/rye sync
 
-test:
-	$(HOME)/.rye/shims/rye run pytest
-
 run: 
 	$(HOME)/.rye/shims/rye run python main.py
 
