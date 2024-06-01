@@ -1,13 +1,14 @@
 [project]
-name = "PettingZoo-ConnectFour"
+name = "PettingZoo-ClassicEnvs"
 version = "0.1.0"
-description = "PettingZoo ConnectFour example with Rye as dependency manager"
+description = "PettingZoo ConnectFour and TicTacToe examples, using Rye as dependency manager"
 authors = [{name = "Brandon Corfman", email = "h9tbgnbbk@privaterelay.appleid.com"}]
 dependencies = [
     "pettingzoo>= 1.24.3",
     "pygame>=2.5.2",
     "stable-baselines3>=2.3.2",
     "sb3-contrib>=2.3.0",
+    "rlcard>=1.2.0",
 ]
 license = "MIT"
 readme = "README.md"
@@ -27,5 +28,5 @@ build-backend = "hatchling.build"
 allow-direct-references = true
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/pettingzoo-connectfour"]
+packages = ["src/pettingzoo-classicenvs"]
 
