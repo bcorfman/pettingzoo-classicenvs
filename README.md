@@ -5,7 +5,7 @@
 <img src="res/c4.png" style="width: 500px">
 
 ## Prerequisites
-* At a command prompt in the project directory, type `make devinstall` to set up Rye with the appropriate Python version, plus the project-level dependencies in development mode, or just `make install` to set up the code as runnable only.
+* At a command prompt in the project directory, type `make devinstall` to set up Rye with the appropriate Python version plus the project-level dependencies in development mode, or just `make install` to set up the code as runnable only.
 
 ## To run the example
 * At a command prompt in the project directory, type `make run`.
