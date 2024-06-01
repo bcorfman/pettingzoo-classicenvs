@@ -1,6 +1,6 @@
 # PettingZoo-ConnectFour
 
-PettingZoo ConnectFour example configured with Rye as dependency manager. Tested with MacOS Sonoma and Ubuntu on WSL2.
+[PettingZoo](https://pettingzoo.farama.org/) ConnectFour example configured with Rye as dependency manager. Tested with MacOS Sonoma and Ubuntu on WSL2.
 
 <img src="res/c4.png" style="width: 500px">
 
