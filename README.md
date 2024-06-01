@@ -1,8 +1,8 @@
-# PettingZoo-ConnectFour
+# PettingZoo-ClassicEnvs
 
-[PettingZoo](https://pettingzoo.farama.org/) ConnectFour example configured with [Rye](https://rye.astral.sh/) as dependency manager. Tested with MacOS Sonoma and Ubuntu on WSL2.
+[PettingZoo](https://pettingzoo.farama.org/) ConnectFour and TicTacToe examples configured with [Rye](https://rye.astral.sh/) as dependency manager. Tested with MacOS Sonoma and Ubuntu on WSL2.
 
-<img src="res/c4.png" style="width: 500px">
+<img src="res/c4ttt.png" style="width: 900px">
 
 ## Prerequisites
 * At a command prompt in the project directory, type `make devinstall` to set up Rye with the appropriate Python version plus the project-level dependencies in development mode, or just `make install` to set up the code as runnable only.
