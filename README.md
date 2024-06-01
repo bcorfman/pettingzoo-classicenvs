@@ -1,6 +1,6 @@
 # PettingZoo-ClassicEnvs
 
-[PettingZoo](https://pettingzoo.farama.org/) ConnectFour and TicTacToe examples configured with [Rye](https://rye.astral.sh/) as dependency manager. Tested with MacOS Sonoma and Ubuntu on WSL2.
+[PettingZoo](https://pettingzoo.farama.org/) ConnectFour and TicTacToe examples, configured with [Rye](https://rye.astral.sh/) as dependency manager. Tested with MacOS Sonoma and Ubuntu on WSL2.
 
 <img src="res/c4ttt.png" style="width: 900px">
 
