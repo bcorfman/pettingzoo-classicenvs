@@ -7,7 +7,7 @@
 ## Prerequisites
 * At a command prompt in the project directory, type `make devinstall` to set up Rye with the appropriate Python version plus the project-level dependencies in development mode, or just `make install` to set up the code as runnable only.
 
-## To run the example
+## To run the examples
 * At a command prompt in the project directory, type `make run`.
 * The first time through, the RL model will be trained and then saved to disk. After that, the trained model will be loaded from disk before evaluation.
 * If retraining is desired, delete the model .zip files from the project directory.
